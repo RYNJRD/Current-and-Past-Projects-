@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a ~~Developer~~ focusing on full-stack **web**
 
 ###  2. [RustFinder](https://rust-finder.vercel.app) $\color{red}{\text{Newest}}$
 **RustFinder** is an intelligence, analytics, and tactical planning platform for *Rust*. It provides deep analytics (cheating probabilities, population data on each server) with an interactive, **collaborative** map planning software for teams.
-* **Features**:
 *  **$\color{orange}{\text{Wiping Soon}}$** - Shows all servers wiping on the day with countdowns and server info
 *  **$\color{red}{\text{Player Lookup}}$** - Scans steam acccount entered / Shows inventory, Hours, Past Names, and friends banned for cheating
 *  **$\color{green}{\text{My Team}}$** - For bigger teams or clan scene / Displays a "My Team" UI with steam activity features / Bulleting Boards / Direct Links to Wipe Plans set up by Leader
