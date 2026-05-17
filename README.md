@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm a ~~Developer~~ focusing on full-stack **web**
 ###  2. [RustFinder](https://rust-finder.vercel.app) $\color{red}{\text{Newest}}$
 **RustFinder** is an intelligence, analytics, and tactical planning platform for *Rust*. It provides deep analytics (cheating probabilities, population data on each server) with an interactive, **collaborative** map planning software for teams.
 * **Status:** Active / Live
-* **Tech Stack:** React 18, Vite, Tailwind CSS, Fastify (TypeScript), Prisma ORM, PostgreSQL, Redis and includes integration with a [Battlemetrics API](https://www.battlemetrics.com/developers/documentation)
+* **Tech Stack:** React 18, Vite, Tailwind CSS, Fastify (TypeScript), Prisma ORM, PostgreSQL, Redis and includes integration with a
+[Battlemetrics API](https://www.battlemetrics.com/developers/documentation)
 * **Website:** [rust-finder.vercel.app](https://rust-finder.vercel.app)
 
 ---
