@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a ~~developer~~ focusing on full-stack **web**
 ## 📁 Other Projects & Bots
 
 * **Twig-Bot** (Python) - Custom Discord bot built to handle clan operations / messages / video announcements - etc, **integrated through discord** 
-* **Nova** - [REDACTED] - Kernel Drivers writing / User Mode
+* **Nova** - $\color{red}{\text{REDACTED}}$ - Kernel Drivers writing / User Mode
 
 
 ---
