@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a ~~developer~~ focusing on full-stack **web**
 
 ## 🚀 Main Projects
 
-### 🎯 1. [RustFinder](https://rust-finder.vercel.app) || New! ||
+### 🎯 1. [RustFinder](https://rust-finder.vercel.app) $\color{orange}{\text{New !!}}$
 **RustFinder** is an intelligence, analytics, and tactical planning platform for *Rust*. It provides deep analytics (cheating probabilities, population data on each server) with an interactive, **collaborative** map planning software for teams.
 * **Status:** Active / Live
 * **Tech Stack:** React 18, Vite, Tailwind CSS, Fastify (TypeScript), Prisma ORM, PostgreSQL, Redis
