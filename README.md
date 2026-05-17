@@ -20,6 +20,12 @@ Welcome to my GitHub profile! I'm a ~~developer~~ focusing on full-stack **web**
 * **Tech Stack:** TypeScript / Cs
 * **Website:** [Taskling.co](https://taskling.co)
 
+#### 📊 Language Breakdown
+| | | |
+| :--- | :--- | :--- |
+| 🔵 **TypeScript** `85.1%` | 🟣 **CSS** `11.8%` | 🟡 **JavaScript** `1.5%` |
+| 🔴 **HTML** `1.2%` | 🟢 **Shell** `0.2%` | 🔹 **PowerShell** `0.2%` |
+
 ---
 
 ## 📁 Other Projects & Bots
