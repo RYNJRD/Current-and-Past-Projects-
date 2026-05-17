@@ -2,7 +2,7 @@
 
 # Hi, I'm Ryan 👋
 
-Welcome to my GitHub profile! I'm a $\color{red}{\text{$~~developer~~} focusing on full-stack **web** / **ios applications**, analytics for **Rust**, **household apps**, and bots using **TypeScript** and **Python**.
+Welcome to my GitHub profile! I'm a $\color{red}{\text{[Developer]}}$ focusing on full-stack **web** / **ios applications**, analytics for **Rust**, **household apps**, and bots using **TypeScript** and **Python**.
 
 ---
 
