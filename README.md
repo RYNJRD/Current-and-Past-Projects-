@@ -8,13 +8,7 @@ Welcome to my GitHub profile! I'm a ~~developer~~ focusing on full-stack **web**
 
 ## Main Projects
 
-###  1. [RustFinder](https://rust-finder.vercel.app) $\color{red}{\text{Newest}}$
-**RustFinder** is an intelligence, analytics, and tactical planning platform for *Rust*. It provides deep analytics (cheating probabilities, population data on each server) with an interactive, **collaborative** map planning software for teams.
-* **Status:** Active / Live
-* **Tech Stack:** React 18, Vite, Tailwind CSS, Fastify (TypeScript), Prisma ORM, PostgreSQL, Redis
-* **Website:** [rust-finder.vercel.app](https://rust-finder.vercel.app)
-
-###  2. [Taskling](https://taskling.co)
+###  1. [Taskling](https://taskling.co)
 **Taskling** is a task management tool (mainly for kids and families) designed to improve tasks / chore productivity in exchange for rewards *(set by parents)*
 * **Status:** Active / Live!
 * **Tech Stack:** TypeScript / Cs
@@ -25,6 +19,12 @@ Welcome to my GitHub profile! I'm a ~~developer~~ focusing on full-stack **web**
 | :--- | :--- | :--- |
 | 🔵 **TypeScript** `85.1%` | 🟣 **CSS** `11.8%` | 🟡 **JavaScript** `1.5%` |
 | 🔴 **HTML** `1.2%` | 🟢 **Shell** `0.2%` | 🔹 **PowerShell** `0.2%` |
+
+###  2. [RustFinder](https://rust-finder.vercel.app) $\color{red}{\text{Newest}}$
+**RustFinder** is an intelligence, analytics, and tactical planning platform for *Rust*. It provides deep analytics (cheating probabilities, population data on each server) with an interactive, **collaborative** map planning software for teams.
+* **Status:** Active / Live
+* **Tech Stack:** React 18, Vite, Tailwind CSS, Fastify (TypeScript), Prisma ORM, PostgreSQL, Redis
+* **Website:** [rust-finder.vercel.app](https://rust-finder.vercel.app)
 
 ---
 
