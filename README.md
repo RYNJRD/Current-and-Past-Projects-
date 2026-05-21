@@ -20,15 +20,14 @@ Welcome to my GitHub profile! I'm a ~~Developer~~ focusing on full-stack **web**
 | 🔵 **TypeScript** `85.1%` | 🟣 **CSS** `11.8%` | 🟡 **JavaScript** `1.5%` |
 | 🔴 **HTML** `1.2%` | 🟢 **Shell** `0.2%` | 🔹 **PowerShell** `0.2%` |
 
-###  2. [RustFinder](https://rustfind.com) $\color{red}{\text{Newest}}$
+###  2. [RustFind](https://rustfind.com) $\color{red}{\text{Newest}}$
 **RustFinder** is an intelligence, analytics, and tactical planning platform for *Rust*. It provides deep analytics (cheating probabilities, population data on each server) with an interactive, **collaborative** map planning software for teams.
 *  **$\color{orange}{\text{Wiping Soon}}$** - Shows all servers wiping on the day with countdowns and server info
 *  **$\color{red}{\text{Player Lookup}}$** - Scans steam acccounts / Shows inventory, Hours, Past Names, and Friends banned for cheating / VAC
 *  **$\color{green}{\text{My Team}}$** - For bigger teams or clan scene / Displays a "My Team" UI with steam activity features / Bulleting Boards / Direct Links to Wipe Plans set up by Leader
   
 * **Status:** Active / Live
-* **Tech Stack:** React 18, Vite, Tailwind CSS, Fastify (TypeScript), Prisma ORM, PostgreSQL, Redis 
-* [Battlemetrics API](https://www.battlemetrics.com/developers/documentation)
+* **Tech Stack:** React 18, Vite, Tailwind CSS, Fastify (TypeScript), Prisma ORM, PostgreSQL, Redis  [Battlemetrics API](https://www.battlemetrics.com/developers/documentation)
 * **Website:** [RustFind.com](https://rustfind.com)
 
 ---
