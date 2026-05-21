@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a ~~Developer~~ focusing on full-stack **web**
 * **Status:** Active / Live
 * **Tech Stack:** React 18, Vite, Tailwind CSS, Fastify (TypeScript), Prisma ORM, PostgreSQL, Redis 
 * [Battlemetrics API](https://www.battlemetrics.com/developers/documentation)
-* **Website:** [rust-finder.vercel.app](https://rust-finder.vercel.app)
+* **Website:** [rust-finder.vercel.app](https://rustfind.com)
 
 ---
 
