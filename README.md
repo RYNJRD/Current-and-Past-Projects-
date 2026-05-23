@@ -1,8 +1,8 @@
 # Current-and-Past-Projects
 
-# Hi, I'm Ryan 👋
+#I'm Ryan 
 
-Welcome to my GitHub profile! I'm a ~~Developer~~ focusing on full-stack **web** / **ios applications**, analytics for **Rust**, **household apps**, and bots using **TypeScript** and **Python**.
+I'm a ~~Dev~~ focusing on full-stack **web** / **ios applications**, analytics for **Rust**, **household apps**, and bots using **TypeScript** and **Python**.
 
 ---
 
