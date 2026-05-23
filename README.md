@@ -1,6 +1,6 @@
 # Current-and-Past-Projects
 
-#I'm Ryan 
+# I'm Ryan 
 
 I'm a ~~Dev~~ focusing on full-stack **web** / **ios applications**, analytics for **Rust**, **household apps**, and bots using **TypeScript** and **Python**.
 
